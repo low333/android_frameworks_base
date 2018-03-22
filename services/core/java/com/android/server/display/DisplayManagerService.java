@@ -1818,7 +1818,7 @@ public final class DisplayManagerService extends SystemService {
 
         @Override
         public boolean isProximitySensorAvailable() {
-		// Disable PriximitySensor
+		// Disable ProximitySensor
             return false;
         }
 
